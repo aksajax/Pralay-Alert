@@ -1,7 +1,3 @@
-# mern-auth-with-jwt-token-localstorage
-
-Video Link - https://youtu.be/dLmcPUY4DSc
-
 MERN Stack Authentication with JWT: Complete Guide | Registration, Login, Profile, Protected Routes
 
 In this comprehensive guide, we’ll build a full authentication system using the MERN stack (MongoDB, Express.js, React.js, and Node.js) with JWT (JSON Web Tokens) for secure authentication. This tutorial covers everything from user registration to managing protected routes.
